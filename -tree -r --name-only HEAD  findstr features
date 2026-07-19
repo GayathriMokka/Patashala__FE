@@ -1,0 +1,20 @@
+[33ma3d8f4b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m exdir
+app/dashboard/page.tsx
+app/features/page.tsx
+app/globals.css
+app/master-data/clone/page.tsx
+app/master-data/page.tsx
+app/providers.tsx
+app/schools/page.tsx
+app/teachers/page.tsx
+components/Layout.tsx
+components/PageContainer.tsx
+components/features/FeatureAccordion.tsx
+components/features/FeatureFlowGuide.tsx
+components/features/FeatureToast.tsx
+components/features/SchoolFeaturesDrawer.tsx
+components/features/TeacherDutyPanel.tsx
+contexts/SchoolFeaturesContext.tsx
+contexts/TeacherDutyContext.tsx
+lib/dashboardConfig.ts
+lib/featureModuleMeta.ts

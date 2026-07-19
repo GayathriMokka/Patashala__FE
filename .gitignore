@@ -1,0 +1,8 @@
+node_modules/
+.next/
+*.tsbuildinfo
+node_modules
+tsconfig.tsbuildinfo
+tmp-css-out.css
+tsconfig.tsbuildinfo
+tmp-css-out.css
